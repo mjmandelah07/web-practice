@@ -1,0 +1,30 @@
+.title {
+    color: red;
+}
+
+#contact-us {
+    color: green;
+}
+
+.subtitle {
+	color: blue;
+}
+
+a:link{
+    color:red;
+
+}
+
+body {
+    background-color: powderblue;
+
+}
+
+*.title {
+    color: brown;
+}
+
+
+h2:hover {
+    color: red;
+}
